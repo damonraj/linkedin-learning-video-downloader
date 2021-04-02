@@ -1,8 +1,8 @@
 import os
 
 # EDIT
-USERNAME = 'temp@abc.com'
-PASSWORD = 'JatinPatel'
+USERNAME = 'arokiaraj.xavier@newinti.edu.my'
+PASSWORD = 'Sept2019'
 COURSES = [
     'ios-development-security',
     'learning-autodesk-inventor'
